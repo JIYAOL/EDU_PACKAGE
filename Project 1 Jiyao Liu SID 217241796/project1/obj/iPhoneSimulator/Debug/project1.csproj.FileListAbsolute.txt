@@ -1,0 +1,12 @@
+/Users/luansy/Projects/project1/project1/bin/iPhoneSimulator/Debug/project1.exe
+/Users/luansy/Projects/project1/project1/bin/iPhoneSimulator/Debug/project1.pdb
+/Users/luansy/Projects/project1/project1/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/luansy/Projects/project1/project1/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_PartialAppManifest.items
+/Users/luansy/Projects/project1/project1/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_BundleResourceWithLogicalName.items
+/Users/luansy/Projects/project1/project1/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_PartialAppManifest.items
+/Users/luansy/Projects/project1/project1/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/luansy/Projects/project1/project1/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/
+/Users/luansy/Projects/project1/project1/obj/iPhoneSimulator/Debug/project1.csprojResolveAssemblyReference.cache
+/Users/luansy/Projects/project1/project1/obj/iPhoneSimulator/Debug/project1.csproj.CoreCompileInputs.cache
+/Users/luansy/Projects/project1/project1/obj/iPhoneSimulator/Debug/project1.exe
+/Users/luansy/Projects/project1/project1/obj/iPhoneSimulator/Debug/project1.pdb

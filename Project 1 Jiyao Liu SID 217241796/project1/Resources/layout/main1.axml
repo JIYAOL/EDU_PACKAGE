@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:orientation="vertical"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:id="@+id/linearLayout1">
+    <TextView
+        p1:text="Happy Restaurant"
+        p1:textAppearance="?android:attr/textAppearanceLarge"
+        p1:layout_width="wrap_content"
+        p1:layout_height="wrap_content"
+        p1:layout_gravity="center"
+        p1:layout_marginTop="20px"
+        p1:id="@+id/textView1" />
+    <TextView
+        p1:text="Price"
+        p1:textAppearance="?android:attr/textAppearanceLarge"
+        p1:layout_width="wrap_content"
+        p1:layout_height="wrap_content"
+        p1:layout_gravity="center"
+        p1:layout_marginTop="200px"
+        p1:id="@+id/textView2" />
+    <Button
+        p1:text="Cancel"
+        p1:layout_width="wrap_content"
+        p1:layout_height="wrap_content"
+        p1:layout_gravity="center"
+        p1:layout_marginTop="300px"
+        p1:id="@+id/button2" />
+    <TextView
+        p1:text="Thank you for choosing Happy Restaurant!"
+        p1:textAppearance="?android:attr/textAppearanceLarge"
+        p1:layout_width="wrap_content"
+        p1:layout_height="wrap_content"
+        p1:gravity="center"
+        p1:layout_marginTop="50px"
+        p1:id="@+id/textView3" />
+</LinearLayout>
